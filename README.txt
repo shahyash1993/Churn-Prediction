@@ -89,6 +89,6 @@ Model			 		| Best Accuracy 	| Feature 			| Run Time
 ----------------------------------------|-----------------------|-------------------------------|----------
 RANDOM FOREST 				| 0.8547774832689106 	| day_charge   			| 80 sec
 LOGISTIC REGRESSION 			| 0.7940277142518337 	| state        			| 44 sec
-DECISION TREES 				| 0.8754325259515571 	| vMail_messages 		| 63 sec
+DECISION TREES 				| 0.8754325259515571 	| vMail_messages		| 63 sec
 NAIVE BAYES 				| 0.8716452742123687 	| phone 			| 50 sec
 GRADIENT BOOSTED TREES  		| 0.8640873015873016 	| state 			| 218 sec
